@@ -12,6 +12,7 @@ public class Member {
    private String name;
    private int age;
 
+
     public int getAge() {
         return age;
     }
